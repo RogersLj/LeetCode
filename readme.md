@@ -1,3 +1,3 @@
-### LeetCode
+# LeetCode
 
-#### This is my LeetCode solution
+### This is my LeetCode solution
